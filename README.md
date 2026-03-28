@@ -60,7 +60,7 @@ These platforms help in building a professional online presence and showcasing s
 
 ## Task 5: Cybercrime Awareness
 
-* Completed a case study on **UPI Payment Fraud**
+* Completed a case study on **Phishing**
 * Created a **Stay Safe Online Checklist** with practical prevention tips
 
 ---
