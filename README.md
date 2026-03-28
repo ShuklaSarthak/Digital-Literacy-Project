@@ -68,6 +68,6 @@ These platforms help in building a professional online presence and showcasing s
 ##  Report
 
 The complete detailed report for all tasks is available here:
- `Project_Report.pdf`
+ `[Project_Report.pdf.pdf](https://github.com/user-attachments/files/26322638/Project_Report.pdf.pdf)`
 
 ---
